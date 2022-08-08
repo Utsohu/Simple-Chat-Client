@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/content_login.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_login.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/activity_register.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/content_register.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_register.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_second2.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/activity_main.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_second3.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second3.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/list_item_client.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/list_item_client.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_notifications.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/content_multi_user_chat.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_multi_user_chat.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_first2.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/activity_login.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_dashboard.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_second.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/activity_multi_user_chat.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_multi_user_chat.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_first.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_home.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/fragment_first3.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first3.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-mergeDebugResources-23:/layout/client_activity.xml",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/client_activity.xml"
+    }
+]

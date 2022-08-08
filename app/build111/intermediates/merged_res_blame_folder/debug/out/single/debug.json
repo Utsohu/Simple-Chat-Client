@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/xml_data_extraction_rules.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_notification.png.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_notification.png"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/xml_backup_rules.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_client_activity.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/client_activity.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_first3.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first3.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_content_register.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_register.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_content_login.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_login.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_front.png.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_front.png"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_notifications.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_main.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_main.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_second3.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second3.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_activity_main.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/navigation_nav_graph2.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/navigation_nav_graph3.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/navigation/nav_graph3.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_activity_register.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_second2.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_first.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_list_item_client.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/list_item_client.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_first2.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_second.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_activity_multi_user_chat.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_multi_user_chat.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_content_multi_user_chat.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/content_multi_user_chat.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_dashboard.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.boyueapp.privatechat.app-pngs-19:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_fragment_home.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/navigation_mobile_navigation.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/layout_activity_login.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/navigation_nav_graph.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.boyueapp.privatechat.app-merged_res-24:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.boyueapp.privatechat.app-main-26:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
